@@ -2,7 +2,7 @@
 Fundamentos de la Gestión de Proyectos Por Isabella Arévalo
 
 ## Qué es un proyecto?
-### Un proyecto es un esfuerzo tempral que se lleva a cabo para crear un producto, servicio o resultado único
+### Un proyecto es un esfuerzo temporal que se lleva a cabo para crear un producto, servicio o resultado único
 Tiene un principio y fin definido, no importa si es por etapas, todas tienen incio y fin. Debe tener un resultado único.
 
 ## Quién gestiona el proyecto? 
@@ -10,14 +10,14 @@ El gestor, coordinador, gestor, director. Es el encargado de dirigir, gestionar 
 
 ## Elmentos de proyecto. 
 - Finalidad y Objetivo
-  Suelen estar relacionados con el resultados y lo9s objetivos. La finalidad es el ¿Por qué? y el objetivo es el ¿Cómo? 
-- Beneficioarios
+  Suelen estar relacionados con el resultados y los objetivos. La finalidad es el ¿Por qué? y el objetivo es el ¿Cómo? 
+- Beneficiarios
   Los que reciben los beneficios del proyecto.
 - Producto o servicio
   Elemento central del proyecto. No es el resultado. El proyecto puede ser aumentar los sucriptores. Aumentar los contenidos es parte del producto. Un micro proyecto es cada uno de los contenidos.
 - Actividades
   Todo proyecto tiene actividades, no hay un número standar. Depende del tamaño. 
-- Calnedario / Cronograma
+- Calendario / Cronograma
   Fechas y plazos, pueden incluir costos y responsables de las actividades. 
 - Recursos Diponibles
   Todo con lo que contamos, Finanzas, personas, espacio físico. 
@@ -68,7 +68,7 @@ Recaudación de fondos tipo teletón
 
 ## Qué hace un proyecto exitoso
 Ningun proyecto es igual, pueden tener muchas cosas parecidas pero no igual. 
-1. Elegir bien el equipo de trabajo - Gende profecional y bien preparada.
+1. Elegir bien el equipo de trabajo - Gente profecional y bien preparada.
 2. Metas claras. 
 3. Planificación detallada, muy detallada.
 4. Aprender a comunicar 
@@ -80,8 +80,8 @@ Ningun proyecto es igual, pueden tener muchas cosas parecidas pero no igual.
 - Desalineación cultural y/o ética
 
 ## Relación entre Proyecto, programa, Portafolio
--. Proyecto: Un proyecto es un esfuerzo tempral que se lleva a cabo para crear un producto, servicio o resultado único
--. Programa: Conjuntode proyectos que guardan cierta relación entre sí. Puede ser secuanciales, paralelos o interdependientes. 
+-. Proyecto: Un proyecto es un esfuerzo temporal que se lleva a cabo para crear un producto, servicio o resultado único
+-. Programa: Conjunto de proyectos que guardan cierta relación entre sí. Puede ser secuenciales, paralelos o interdependientes. 
 -. Portafolio: Nivel superior de gestion de programas y proyectos que buscan alcanzar los objetivos estrategicos del negocio/fundación. 
 
 ## Ciclo de vida de un proyecto 
@@ -89,24 +89,24 @@ Son las faces por las que pasa el proyecto.
 1. Iniciación
   Se estudia la factibilidad del proyecto y estimación de tiempos. Si es viable se continua en las siguientes fases.
     Se haces don documentos: 
-    1. Documentos del Caso: La justificación de la necesidad del proyecto
+    1. Documentos del Caso: La justificación de la necesidad del proyecto y los beneficios. 
     2. Estudio de factibilidad: evaluar las metas, cronogramas y costos 
 2. Planificación
-  Planificación, cada uno de los pasos y actividades, costos, tiempos y correspondientes. 
+  Planificación, cada uno de los pasos y actividades, costos, tiempos y correspondientes. Se planifica el seguimiento y control así como su frecuencia.
 3. Ejecución
   Se pone en marcha el paso 1 y 2 y el proyecto ya tiene vida. 
 4. Seguimiento y control
   Suele ir combinado con la ejecución, la idea es corregir lo necesario, es necesario planificar esto y quienes les dan seguimiento y la forma de reporte. 
 5. Cierre
-  Al ebntregar los resultados al cliente y comunicacdo a todas las partes. Es importante para liberar los recursos. 
-** Muy importante documentar las lecciones aprendidas **
+  Al entregar los resultados al cliente y comunicacdo a todas las partes. Es importante para liberar los recursos. 
+**Muy importante documentar las lecciones aprendidas**
 
 ## Cómo se dirige un proyecto? La importancia del liderazgo 
-Cu'al es la diferencia de estos tres perfiles: 
+Cuál es la diferencia de estos tres perfiles: 
 -. Gestor de proyecto 
   El encargado/a del desarrollo del proyecto 
   Competencias: 
-  **Conocimeinto:** pleno del proyecto, de inicio a fin. Documentaciṕon, proveedores, interesados. 
+  **Conocimeinto:** pleno del proyecto, de inicio a fin. Documentación, proveedores, interesados. 
   **Desempeño:** la aplicación de los conocimientos
   **Personales:** comportamiento cuando se ejecutan las actividades del proyecto
   **Interpersonales:** trabajo en equipo, motivación, comunicación, influencia, toma de decisiones, negoción, generación de confianza, gestión de conflictos, proporcionar orientación. 
@@ -122,11 +122,37 @@ Cu'al es la diferencia de estos tres perfiles:
 -. Adaptación 
 -. Buena relación 
 
-¿Qué hacer si elñ gestior no es bueno?
-1. cCrear una relación con esa persona 
-2. Apreciar sus fortalezas
-3. Añadir valor 
+### ¿Qué hacer si el gestor no es bueno?
+1. Crear una relación con esa persona. (buscar ser empatico)
+2. Apreciar sus fortalezas.
+3. Añadir valor.
 
+## Quiénes integran un proyecto? 
+Los proyectos cambian y los roles las constantes son: 
+-. Personal de dirección del proyecto.
+-. Personal del proyecto (ejecución)
+-. Expertos (legales, ambientales, etc) 
+-. Representantes del cliente. 
+-. Vendedores
+
+Es importante contar con un plan de gestion de recursos humanos
+### Plan de gestion de recursos humanos
+Es la guía para definir, adquirir, dirigir y liberar los recursos humanos del proyecto.
+-. Roles: la función asumida/asignada a una personal en el proyecto 
+-. Responsabilidades: tareas asignadas y el trabajo que se espera realice. 
+-. Autoridad: firmas, uso de recursos, decisiones, aprobaciones, entregables, todos llevan cierto nivel de autoridad, no todos pueden hacer todo. 
+-. Competencia: habilidad y capacidad requerido para completar las actividades
+-. Organigrama: representación gráfioca de los mientros del equipo del proyecto, sus relaciones y como se comunican. 
+-. Plan de gestión del personal: parte del plan de recursos humanos, describe cómo y cuándo se incorporan miembros al proyecto. 
+  -. adquisición del personal: ¿Cómo? nosotros lo buscamos, nos lo proveen
+  -. calendario: días labores, horarios, fechas de descanso, cuándo se realiza cada parte del proyecto
+  -. liberación del personal: cuándo se libera al personal y cómo es el proceso. 
+  -. necesidades de capacitación: aún a los expertos, es necesario en ciertas áres. 
+  -. recompensas y reconocimientos: según cirterios claros y establecidos. 
+  -. Políticas y procedimientos que protegen a los miembros del equipo frente a los peligros relacionados. ¿Qué hacemos para asegurar las vidas del personal? 
+
+## Alcance de un proyecto 
+Qué se espera y qué no se hará dentro del proyecto. 
 
 
   
