@@ -240,8 +240,7 @@ Cada actividad es represetada en el Cronograma de perl y tiene 4 cuadrantes, ear
 La resta del inferior menos el superior ontenemos la holgura ya sea igual a 0 y es la ruta critica y cuando no es cero no es critico. 
 
 El early star es de izquierda a derecha y el late es de derecha a izquierda
-Ver diagrama. 
-
+![Ver diagrama](./rutaCritica.png)
 
 
 
