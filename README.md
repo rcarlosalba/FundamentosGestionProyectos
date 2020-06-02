@@ -221,11 +221,26 @@ Es la herramienta de planificación que determina el inicio y fin de todo.
 -. Cronograma de trabajo: Y actividades X tiempo Y al final Responsable 
   
 ## Gestionar y desarrollar un cronograma
+## Rura Critica 
+Es el control de ciertas actividades indiscutibles para cumplir. 
+Critical Path Method 
+**Beneficios:**
+-. Priorizar lo importante.
+-. Identificar lo que no es crítico.
+-. Nos ayuda a tomar desiciónes.
+**Pasos**
+.- Definir actividades
+-. Establecer relaciones
+-. realizar el calculo en red**
+-. definir la ruta critica
 
 
+** cada actividad se identifica con una letra, cada letra es el hito como tal. 
+Cada actividad es represetada en el Cronograma de perl y tiene 4 cuadrantes, early estar earli finish en la parte superior y en la parte inferior, late star y late finish 
+La resta del inferior menos el superior ontenemos la holgura ya sea igual a 0 y es la ruta critica y cuando no es cero no es critico. 
 
-
-
+El early star es de izquierda a derecha y el late es de derecha a izquierda
+Ver diagrama. 
 
 
 
