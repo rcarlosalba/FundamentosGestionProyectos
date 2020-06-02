@@ -152,7 +152,44 @@ Es la guía para definir, adquirir, dirigir y liberar los recursos humanos del p
   -. Políticas y procedimientos que protegen a los miembros del equipo frente a los peligros relacionados. ¿Qué hacemos para asegurar las vidas del personal? 
 
 ## Alcance de un proyecto 
-Qué se espera y qué no se hará dentro del proyecto. 
+Qué se incluye y lo qué no. Es tanto el alcance del producto (caracteristicas y funciones que describen un producto) como del proyecto (es el trabajo realizado para entregar el producto).
+
+### Qué debe incluir:
+-. Qué es, por qué está sucediendo y qué logrará 
+-. Quién lo aprueba 
+-. Cómo se completarpa (enfoque, fases y tareas)
+-. Qué se producirá
+-. Cuándo se entregará
+-. Cuánto costará
+-. Qué esta incluido y qué no (restricciones)
+
+Este enunciado del alcance es parte de lo ultimo que se redacta pues, es necesario tener la estimación de costos, cronograma y gestión del personal. 
+
+## Qué es un EDT y cómo se hace
+**Estructura de desglose del trabajo** es una descomposición jerárquica orientada al producto entregable. Las actividades y pequeños entregables. 
+**Se utiliza para:**
+-. Definir el alcance en terminos de entregables
+-. Definir los ciclos de los procesos 
+-. Dotar al equipo co un marco de referencia 
+-. Elemento clave
+**Cómo está estructurada**
+-. Orientada a entregables, programación y/o recursos
+**Pasos:**
+-. Identificar el entregable final del proyecto. 
+-. Indentificar esa serie de entregables pequeños que dan forma (los principales)
+-. Despocomponer los niveles de entregables. Los más pequeños son paquetes de trabajo (las acciones concretas) 
+-. Revisar y refinar la EDT con los involucrados del proyecto hasta llevar a un acuerdo. 
+
+**Es necesrio crear el diccionario del EDT**
+-. Explicación de los terminos tecnicos. 
+-. Aún los textos no tecnicos pero de refencia propia del proyecto.
+
+Documentos de caso y Estudio de Factibilidad - Documentos que debieran ser desarrollados usando design thinking. 
+El primero busca entender y establecer el problema y la solución planteada. 
+El segundo busca medi las probabilidades de éxito y/o fracaso según los resultados proyectados. 
+Ambos documentos se hacen usalmente al mismo tiempo y en el proceso de planificación. 
+
+
 
 
   
