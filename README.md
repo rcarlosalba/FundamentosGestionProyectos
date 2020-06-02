@@ -189,10 +189,38 @@ El primero busca entender y establecer el problema y la solución planteada.
 El segundo busca medi las probabilidades de éxito y/o fracaso según los resultados proyectados. 
 Ambos documentos se hacen usalmente al mismo tiempo y en el proceso de planificación. 
 
+## Gestión del tiempo
+El cronograma debe ser realista e iterativo es normal agregar o acortar el tiempo pero debe ser muy mínimo 
+Debe determinarse el mejor plazo/calendario 
 
+## Cómo se estiman
+-. determinar el tiempo de cada una de las actividades
+-. se puede consultar con el encargado de la actividad
+-. actividades según el EDT 
+-. Secuencias actividades (o simultaneas) 
 
+### Relaciones entre actividades
+-. Final Inicio 
+-. Inicio Inicio
+-. Final Final
+-. Inicio Final
 
+## Tipos de cronogramas
+Es la herramienta de planificación que determina el inicio y fin de todo. 
+**Qué debe contener el cronograma:**
+-. Tareas: acitivades realizadas en secuencial .
+-. Trabajo: esfuerzo para hacer la tarea.
+-. Hitos: Identifica los hechos más relevantes para determinar el final de una fase importante. 
+-. Duración: tiempo que se tarde una tarea. 
+-. Responsable: ¿Quién hace qué? ¿Quién supervisa? 
+-. Costo: elemento opcional. 
+
+**Tipos de cronogramas:**
+-. Gantt: Tiempo en x y Actividades en Y 
+-. Pert: Secuenciales
+-. Cronograma de trabajo: Y actividades X tiempo Y al final Responsable 
   
+## Gestionar y desarrollar un cronograma
 
 
 
