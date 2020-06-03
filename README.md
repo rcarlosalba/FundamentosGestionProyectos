@@ -80,9 +80,9 @@ Ningun proyecto es igual, pueden tener muchas cosas parecidas pero no igual.
 - Desalineación cultural y/o ética
 
 ## Relación entre Proyecto, programa, Portafolio
--. Proyecto: Un proyecto es un esfuerzo temporal que se lleva a cabo para crear un producto, servicio o resultado único
--. Programa: Conjunto de proyectos que guardan cierta relación entre sí. Puede ser secuenciales, paralelos o interdependientes. 
--. Portafolio: Nivel superior de gestion de programas y proyectos que buscan alcanzar los objetivos estrategicos del negocio/fundación. 
+- Proyecto: Un proyecto es un esfuerzo temporal que se lleva a cabo para crear un producto, servicio o resultado único
+- Programa: Conjunto de proyectos que guardan cierta relación entre sí. Puede ser secuenciales, paralelos o interdependientes. 
+- Portafolio: Nivel superior de gestion de programas y proyectos que buscan alcanzar los objetivos estrategicos del negocio/fundación. 
 
 ## Ciclo de vida de un proyecto 
 Son las faces por las que pasa el proyecto. 
@@ -103,24 +103,24 @@ Son las faces por las que pasa el proyecto.
 
 ## Cómo se dirige un proyecto? La importancia del liderazgo 
 Cuál es la diferencia de estos tres perfiles: 
--. Gestor de proyecto 
+- Gestor de proyecto 
   El encargado/a del desarrollo del proyecto 
-  Competencias: 
-  **Conocimeinto:** pleno del proyecto, de inicio a fin. Documentación, proveedores, interesados. 
-  **Desempeño:** la aplicación de los conocimientos
-  **Personales:** comportamiento cuando se ejecutan las actividades del proyecto
-  **Interpersonales:** trabajo en equipo, motivación, comunicación, influencia, toma de decisiones, negoción, generación de confianza, gestión de conflictos, proporcionar orientación. 
--. Gerente de operaciones
+  - Competencias: 
+    - **Conocimeinto:** pleno del proyecto, de inicio a fin. Documentación, proveedores, interesados. 
+    - **Desempeño:** la aplicación de los conocimientos
+    - **Personales:** comportamiento cuando se ejecutan las actividades del proyecto
+    - **Interpersonales:** trabajo en equipo, motivación, comunicación, influencia, toma de decisiones, negoción, generación de confianza, gestión de conflictos, proporcionar orientación. 
+- Gerente de operaciones
   Libera fondos, maquinaria, archivos
--. Gerente General 
+- Gerente General 
   Encargado de la operación completa de la compañia.
 
 ## Aspectos que fortalecen el liderazgo 
--. Escuchar 
--. Respeto 
--. Ser directo 
--. Adaptación 
--. Buena relación 
+- Escuchar. 
+- Respeto. 
+- Ser directo. 
+- Adaptación. 
+- Buena relación. 
 
 ### ¿Qué hacer si el gestor no es bueno?
 1. Crear una relación con esa persona. (buscar ser empatico)
@@ -129,60 +129,60 @@ Cuál es la diferencia de estos tres perfiles:
 
 ## Quiénes integran un proyecto? 
 Los proyectos cambian y los roles las constantes son: 
--. Personal de dirección del proyecto.
--. Personal del proyecto (ejecución)
--. Expertos (legales, ambientales, etc) 
--. Representantes del cliente. 
--. Vendedores
+- Personal de dirección del proyecto.
+- Personal del proyecto (ejecución).
+- Expertos (legales, ambientales, etc).
+- Representantes del cliente.
+- Vendedores.
 
 Es importante contar con un plan de gestion de recursos humanos
 ### Plan de gestion de recursos humanos
 Es la guía para definir, adquirir, dirigir y liberar los recursos humanos del proyecto.
--. Roles: la función asumida/asignada a una personal en el proyecto 
--. Responsabilidades: tareas asignadas y el trabajo que se espera realice. 
--. Autoridad: firmas, uso de recursos, decisiones, aprobaciones, entregables, todos llevan cierto nivel de autoridad, no todos pueden hacer todo. 
--. Competencia: habilidad y capacidad requerido para completar las actividades
--. Organigrama: representación gráfioca de los mientros del equipo del proyecto, sus relaciones y como se comunican. 
--. Plan de gestión del personal: parte del plan de recursos humanos, describe cómo y cuándo se incorporan miembros al proyecto. 
-  -. adquisición del personal: ¿Cómo? nosotros lo buscamos, nos lo proveen
-  -. calendario: días labores, horarios, fechas de descanso, cuándo se realiza cada parte del proyecto
-  -. liberación del personal: cuándo se libera al personal y cómo es el proceso. 
-  -. necesidades de capacitación: aún a los expertos, es necesario en ciertas áres. 
-  -. recompensas y reconocimientos: según cirterios claros y establecidos. 
-  -. Políticas y procedimientos que protegen a los miembros del equipo frente a los peligros relacionados. ¿Qué hacemos para asegurar las vidas del personal? 
+- Roles: la función asumida/asignada a una personal en el proyecto.
+- Responsabilidades: tareas asignadas y el trabajo que se espera realice. 
+- Autoridad: firmas, uso de recursos, decisiones, aprobaciones, entregables, todos llevan cierto nivel de autoridad, no todos pueden hacer todo. 
+- Competencia: habilidad y capacidad requerido para completar las actividades.
+- Organigrama: representación gráfioca de los mientros del equipo del proyecto, sus relaciones y como se comunican. 
+- Plan de gestión del personal: parte del plan de recursos humanos, describe cómo y cuándo se incorporan miembros al proyecto. 
+- adquisición del personal: ¿Cómo? nosotros lo buscamos, nos lo proveen.
+- calendario: días labores, horarios, fechas de descanso, cuándo se realiza cada parte del proyecto.
+- liberación del personal: cuándo se libera al personal y cómo es el proceso. 
+- necesidades de capacitación: aún a los expertos, es necesario en ciertas áres. 
+- recompensas y reconocimientos: según cirterios claros y establecidos. 
+- Políticas y procedimientos que protegen a los miembros del equipo frente a los peligros relacionados. ¿Qué hacemos para asegurar las vidas del personal?.
 
 ## Alcance de un proyecto 
 Qué se incluye y lo qué no. Es tanto el alcance del producto (caracteristicas y funciones que describen un producto) como del proyecto (es el trabajo realizado para entregar el producto).
 
 ### Qué debe incluir:
--. Qué es, por qué está sucediendo y qué logrará 
--. Quién lo aprueba 
--. Cómo se completarpa (enfoque, fases y tareas)
--. Qué se producirá
--. Cuándo se entregará
--. Cuánto costará
--. Qué esta incluido y qué no (restricciones)
+- Qué es, por qué está sucediendo y qué logrará 
+- Quién lo aprueba 
+- Cómo se completarpa (enfoque, fases y tareas)
+- Qué se producirá
+- Cuándo se entregará
+- Cuánto costará
+- Qué esta incluido y qué no (restricciones)
 
 Este enunciado del alcance es parte de lo ultimo que se redacta pues, es necesario tener la estimación de costos, cronograma y gestión del personal. 
 
 ## Qué es un EDT y cómo se hace
 **Estructura de desglose del trabajo** es una descomposición jerárquica orientada al producto entregable. Las actividades y pequeños entregables. 
 **Se utiliza para:**
--. Definir el alcance en terminos de entregables
--. Definir los ciclos de los procesos 
--. Dotar al equipo co un marco de referencia 
--. Elemento clave
+- Definir el alcance en terminos de entregables
+- Definir los ciclos de los procesos 
+- Dotar al equipo co un marco de referencia 
+- Elemento clave
 **Cómo está estructurada**
--. Orientada a entregables, programación y/o recursos
+- Orientada a entregables, programación y/o recursos
 **Pasos:**
--. Identificar el entregable final del proyecto. 
--. Indentificar esa serie de entregables pequeños que dan forma (los principales)
--. Despocomponer los niveles de entregables. Los más pequeños son paquetes de trabajo (las acciones concretas) 
--. Revisar y refinar la EDT con los involucrados del proyecto hasta llevar a un acuerdo. 
+- Identificar el entregable final del proyecto. 
+- Indentificar esa serie de entregables pequeños que dan forma (los principales)
+- Despocomponer los niveles de entregables. Los más pequeños son paquetes de trabajo (las acciones concretas) 
+- Revisar y refinar la EDT con los involucrados del proyecto hasta llevar a un acuerdo. 
 
 **Es necesrio crear el diccionario del EDT**
--. Explicación de los terminos tecnicos. 
--. Aún los textos no tecnicos pero de refencia propia del proyecto.
+- Explicación de los terminos tecnicos. 
+- Aún los textos no tecnicos pero de refencia propia del proyecto.
 
 Documentos de caso y Estudio de Factibilidad - Documentos que debieran ser desarrollados usando design thinking. 
 El primero busca entender y establecer el problema y la solución planteada. 
@@ -190,52 +190,53 @@ El segundo busca medi las probabilidades de éxito y/o fracaso según los result
 Ambos documentos se hacen usalmente al mismo tiempo y en el proceso de planificación. 
 
 ## Gestión del tiempo
-El cronograma debe ser realista e iterativo es normal agregar o acortar el tiempo pero debe ser muy mínimo 
-Debe determinarse el mejor plazo/calendario 
+El cronograma debe ser realista e iterativo es normal agregar o acortar el tiempo pero debe ser muy mínimo.
+Debe determinarse el mejor plazo/calendario.
 
 ## Cómo se estiman
--. determinar el tiempo de cada una de las actividades
--. se puede consultar con el encargado de la actividad
--. actividades según el EDT 
--. Secuencias actividades (o simultaneas) 
+- determinar el tiempo de cada una de las actividades.
+- se puede consultar con el encargado de la actividad.
+- actividades según el EDT.
+- Secuencias actividades (o simultaneas).
 
 ### Relaciones entre actividades
--. Final Inicio 
--. Inicio Inicio
--. Final Final
--. Inicio Final
+- Final Inicio.
+- Inicio Inicio.
+- Final Final.
+- Inicio Final.
 
 ## Tipos de cronogramas
 Es la herramienta de planificación que determina el inicio y fin de todo. 
+
 **Qué debe contener el cronograma:**
--. Tareas: acitivades realizadas en secuencial .
--. Trabajo: esfuerzo para hacer la tarea.
--. Hitos: Identifica los hechos más relevantes para determinar el final de una fase importante. 
--. Duración: tiempo que se tarde una tarea. 
--. Responsable: ¿Quién hace qué? ¿Quién supervisa? 
--. Costo: elemento opcional. 
+- Tareas: acitivades realizadas en secuencial .
+- Trabajo: esfuerzo para hacer la tarea.
+- Hitos: Identifica los hechos más relevantes para determinar el final de una fase importante. 
+- Duración: tiempo que se tarde una tarea. 
+- Responsable: ¿Quién hace qué? ¿Quién supervisa? 
+- Costo: elemento opcional. 
 
 **Tipos de cronogramas:**
--. Gantt: Tiempo en x y Actividades en Y 
--. Pert: Secuenciales
--. Cronograma de trabajo: Y actividades X tiempo Y al final Responsable 
+- Gantt: Tiempo en x y Actividades en Y.
+- Pert: Secuenciales.
+- Cronograma de trabajo: Y actividades X tiempo Y al final Responsable.
   
 ## Gestionar y desarrollar un cronograma
 ## Rura Critica 
 Es el control de ciertas actividades indiscutibles para cumplir. 
-Critical Path Method 
+Critical Path Method.
 **Beneficios:**
--. Priorizar lo importante.
--. Identificar lo que no es crítico.
--. Nos ayuda a tomar desiciónes.
+- Priorizar lo importante.
+- Identificar lo que no es crítico.
+- Nos ayuda a tomar desiciónes.
 **Pasos**
-.- Definir actividades
--. Establecer relaciones
--. realizar el calculo en red**
--. definir la ruta critica
-
+- Definir actividades.
+- Establecer relaciones.
+- realizar el calculo en red**.
+- definir la ruta critica.
 
 ** cada actividad se identifica con una letra, cada letra es el hito como tal. 
+
 Cada actividad es represetada en el Cronograma de perl y tiene 4 cuadrantes, early estar earli finish en la parte superior y en la parte inferior, late star y late finish 
 La resta del inferior menos el superior ontenemos la holgura ya sea igual a 0 y es la ruta critica y cuando no es cero no es critico. 
 
@@ -245,10 +246,10 @@ El early star es de izquierda a derecha y el late es de derecha a izquierda
 ## Recursos y Costos
 **Recursos:** todo lo que tenemos, desde lo material hasta los humanos. También intelecutales y financieros. 
 **Estimación de costos** Proceso para estimar costos. 
--. Plan de gestión de costos.
--. Estimar costos (Cotizaciones).
--. Determinar presupuesto. 
--. Controlar los costos. 
+  - Plan de gestión de costos.
+  - Estimar costos (Cotizaciones).
+  - Determinar presupuesto. 
+  - Controlar los costos. 
 Tipos de costos: 
 **Según la relación:**
 Directos: todo lo que afecta la ejecución 
@@ -311,19 +312,3 @@ Es necesaria el acta de cierre:
   - Estado del proyecto 
   - Detalle de los elementos entregados (es el reflejo de lo planificado) 
   - Firmas
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
