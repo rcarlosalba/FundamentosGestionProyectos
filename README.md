@@ -242,6 +242,43 @@ La resta del inferior menos el superior ontenemos la holgura ya sea igual a 0 y 
 El early star es de izquierda a derecha y el late es de derecha a izquierda
 ![Ver diagrama](./rutaCritica.png)
 
+## Recursos y Costos
+**Recursos:** todo lo que tenemos, desde lo material hasta los humanos. También intelecutales y financieros. 
+**Estimación de costos** Proceso para estimar costos. 
+-. Plan de gestión de costos.
+-. Estimar costos (Cotizaciones).
+-. Determinar presupuesto. 
+-. Controlar los costos. 
+Tipos de costos: 
+**Según la relación:**
+Directos: todo lo que afecta la ejecución 
+Indirectos: pagos de los que se pueden precindir sin afectar el proyecto. 
+**Según origen:**
+Internos: Producidos por actividades desarrolladas con recursos propios.
+Externos: desarrollados por terceras partes. 
+
+## Tipos de estimación 
+**Análoga:** Utiliza el costo real de otro proyecto similar que ya fue ejecutado. O Rangos conocidos.  
+**Paramétrica** Utiliza la relación estadística con datos historicos y otras variables para estimar r
+**Asendente** Para un trabajo específico. Y luego se multiplica por el total de "trabajos".
+**3 valores**Se consideran riesgo e incertidumbre
+  - Más probable: casi seguro.
+  - Optimista: el mejor precio.
+  - Pesimista: lo más caro. 
+**Oferta de proveedores** Cotizaciones.
+
+Presupuesto: la sumatoria del costo de todas las actividades. 
+Siempre es importante la consulta a expertos. 
+**Conciliación del límite de financiamiento** Usualmente en proyectos de ONG. 
+
+
+
+
+
+
+
+
+
 
 
 
