@@ -271,6 +271,46 @@ Presupuesto: la sumatoria del costo de todas las actividades.
 Siempre es importante la consulta a expertos. 
 **Conciliación del límite de financiamiento** Usualmente en proyectos de ONG. 
 
+## Control de riesgos
+**Riesgo:** Evento o condición incierta que de producirse tiene un efecto en los objetivos del proyecto. 
+**Gestión de riesgos:** Aunmentar la probabilidad e impacto de lo positivo sobre lo negativo. 
+**Qué inclye el Plan**
+  - Metodología: ¿Cómo lo vamos a gestionar?.
+  - Roles y responsabilidades: QUién lidera la gestión.
+  - presupuesto: Cuánto vamos a asignar al riesgo.
+  - Calendario: Cuándo y con qué frecuencia se evaluan los riesgos. 
+  - Por categorias: Técnicas (maquinaria), Externas(carreteras, amnifestaciones), de la organización(personal), dirección de proyectos(UNa segunda voz al mando). 
+
+### Cómo identificar?
+  - Revisión periodica: de la propuesta. 
+  - Lluvia de ideas: periodica en la revisión de riesgos. 
+  - Delphi: encuesta a expertos y resumen a ellos de sus comentarios sale la información valisoa. 
+  - Análisis de causa raíz: Análisis del arbol. 
+  - Lista de verificación: revisamos 
+  - Análisis de supuestos: escenarios hipoteticos. 
+  - FODA.
+
+## Gestión de Cambios
+Todo es por escrito. Sin documentos que respalden no se gestión cambios. 
+  - Acciones correctivas: busca corregir el rumbo y seguir el plan.
+  - Acciones preventivas: identificar erroes antes de que sucedan.
+  - Reparación de defectos: modificar o componer.
+  - Actualizaciones: cambios en los elementos formalmente controlados.
+
+**Control de cambios** tipo Git. Puede tomarse la decisión por una persona o un board. 
+
+inicio Planificación ejecución seguimiento control y cierre
+
+## Cierre de proyectos
+Técnica: ya terminaos y no tenenmos entregables pendientes.
+Administrativo: todo el presupuesto ha sido asignado. Salvo el de mitigación de riesgos. 
+Es necesaria el acta de cierre: 
+  - Nombre del proyecto
+  - Cliente
+  - Fecha de recepción (del documento) 
+  - Estado del proyecto 
+  - Detalle de los elementos entregados (es el reflejo de lo planificado) 
+  - Firmas
 
 
 
